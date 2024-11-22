@@ -1,9 +1,9 @@
 # DEFINE ALL YOUR VARIABLES HERE
 
 instance_type = "t2.micro"
-ami           = "ami-0866a3c8686eaeeba"   # Ubuntu 24.04
+ami           = "ami -0866a3c8686eaeeba"   # Ubuntu 24.04
 key_name      = "key"                     # Replace with your key-name without .pem extension
-volume_size   = 16
+volume_size   =  16
 region_name   = "us-east-1"
 server_name   = "k8s-SERVER"
 
